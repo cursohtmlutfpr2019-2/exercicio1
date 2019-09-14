@@ -2,7 +2,7 @@
 
 ### 1. **Desenvolver um manual online de etiquetas e boas maneiras para orientação de usuários que desejam fazer uma visita a uma pessoa hospitalizada, conforme especificações abaixo:**
 
-## Uma página principal, de nome “questao1.html”, com a aparência abaixo:
+## Uma página principal, de nome “index.html”, com a aparência abaixo:
 
 ![Página principal](https://lh3.googleusercontent.com/nIZIL5HC76LLuQ8C0iJXeQXUnXLWCEvJVeUiedWA0UeuKfXc5AbRD3k7na5vYPA48fBQJosWkSzlzBAbZl8LTZxZiGLfqVOz7t0ensAqQGiTqBN9NxtWhre7b01a_NsigPlZ3v36CZvHKKxtyV-60LET4L7mo_z2kJISu7ExymkrlDfPEaCch6zvddAlfsPBfVPZuZRIqhBrKasEE1AsgQw_LYLVzcMkqjIRzk5nXWvbdTr7Nx8ABDK43gSeJaBkwKfM1Kxm5tFIcY9__Si_jE96cAXm2GnD2vxwfqu1MVVa14_CuLmaxGdazKvflCLfygaU1nU_uxsuNYzbri8sVuwve4GfnMCUWTfFBVp8lllBjxKtwaiY1JFGe0j51m0f5FMjy9GxhGSJoIP3EoLFDZ5VgBtVKjscKfX1IqZayuJxD-hVFEqhPJBz_bzc5Sj9VYxOsL_O0KCCg8btaLcmiECuukNI8PmHiHCdjsAMHYdKe3P_KwRpkbmUXe0ebZIvA_Kc7nm4E6YsPvZBiiUPkCe6XWXFRT7kWvIIIxnmOEbYnppxmgpqyIUTshOnwYYvPZVcRTrjUBkAelyVR32hEDYVQw2iUGuaMX7MVS_PJ_pLg-2C2nJ99SVXDD_nS8k11u_jVHb4eMn08HZXjoX1d1S_0-40GyApwOrGwhZVzvghkdK8qpWQhrQ=w601-h392-no)
 
