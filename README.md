@@ -21,3 +21,10 @@
 * **Regra 3:** Esteja atento ao fato de que a pessoa poderá ficar cansada à medida que sua visita prossegue. Se perceber que a pessoa está querendo dormir ou ficando cansada, mesmo que esteja há pouco tempo com ela, despeça-se e visite-a noutro dia.
 * **Regra 4:** Mantenha uma visita positiva, sendo uma pessoa positiva, cordial, simpática - não dê ao paciente notícias perturbadoras. Anime sempre a pessoa, mesmo que ela seja negativa.
 * **Regra 5:** Se o quarto de hospital for compartilhado, cumprimente os pacientes restantes e suas visitas quando chegar e quando sair; se achar oportuno deseje-lhe melhoras também.
+
+### Observações:
+
+* Uso de cabeçalho de nível 1 para a primeira linha de texto (“Regras de etiqueta e boas maneiras quando você visita alguém no hospital”);
+* Uso de cabeçalho de nível 3 para a segunda linha de texto (“Regra n”, onde n é o número da regra);
+* Título da página: “Etiquetas e Boas Maneiras :: Regra n”, onde n é o número da regra;
+* Dois links, para as páginas da regra anterior e da próxima regra (em relação à regra descrita na página em questão), respectivamente. **Observar duas exceções**: na página “regra1.html”, o link à esquerda (texto “Página Inicial”) aponta para a página principal; E na página “regra5.html”, o link à direita (texto “Página Inicial”) aponta, igualmente, para a página principal. 
